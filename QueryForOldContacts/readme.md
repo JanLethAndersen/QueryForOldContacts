@@ -49,8 +49,6 @@ Metoden kaldes med to KeyValuePair<string,string>, som fodrer en QueryExpression
 Omkostningsstedet på contacten er eksempelvis ikke den samme entiteten der anvendes på brugeradministration, grundet sikkerhedshensyn.
 Det er derfor nødvendigt at udtrække omkostningstedet fra den fremsøgede contact og anvende dette ID til at fremsøge en record i entiteten brugeradm omk.sted (som er relateret til omkostningsstedet).
 
-..... test
-
 
 
      
